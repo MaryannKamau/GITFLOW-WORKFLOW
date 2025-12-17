@@ -1,2 +1,3 @@
 # GITFLOW-WORKFLOW
 ....
+# Version 1.0.0
